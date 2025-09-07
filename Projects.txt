@@ -1,0 +1,6 @@
+1. Sales Prediction with Hybrid Model:
+   Combines RandomForest and XGBoost for real-time outlet sales forecasting. Features include export to PDF, Excel, CSV via Gradio UI.
+
+2. Real-time Chatbot Project:
+   An interactive career chatbot that answers recruiter questions based on my bio, skills, and goals.
+

@@ -16,8 +16,4 @@ Built using **Python, Gradio, and TF-IDF retrieval**, this project acts as an **
   - Career Goals  
   - LinkedIn profile  
 - ✅ Handles greetings & casual chat (hi, hello, thanks, etc.)  
-- ✅ Deployed on **Hugging Face Spaces** (no API cost, fully free hosting).  
-
-
-
-## 📂 Project Structure
+- ✅ Deployed on **Hugging Face Spaces** (no API cost, fully free hosting). 

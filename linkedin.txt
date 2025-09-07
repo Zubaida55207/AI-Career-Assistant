@@ -1,0 +1,11 @@
+👋 Hello! I’m Zubaida Bibi — a passionate Machine Learning enthusiast and aspiring Full Stack ML Developer.
+
+🎓 I recently completed my BS in Information Technology from Bahauddin Zakariya University, with a strong academic record (CGPA: 3.82). I specialize in building real-world ML solutions that solve meaningful problems.
+
+🚀 My latest project, “Sales Prediction with Hybrid Model,” combines the power of RandomForest and XGBoost, featuring a Gradio-powered interface for real-time predictions, visualizations, and exportable reports. I also developed a smart AI chatbot assistant using LangChain and Gradio to showcase my skills to recruiters.
+
+💡 I  strong foundation in programming (Python, PHP, Java, JavaScript) and web technologies (HTML, CSS, Gradio).
+
+🌍 My goal is to pursue my career internationally or work remotely with companies that value innovation and ethical AI.
+
+Let’s connect and collaborate on something impactful!

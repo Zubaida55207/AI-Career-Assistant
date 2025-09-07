@@ -1,0 +1,1 @@
+My name is Zubaida Bibi. I’m a Machine Learning enthusiast with a strong background in Python, Scikit-learn, XGBoost, and Gradio. I’ve completed real-time ML projects including a hybrid sales prediction system. I aim to pursue my career abroad and work in impactful AI fields.

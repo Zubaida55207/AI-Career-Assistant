@@ -1,12 +1,23 @@
----
-title: Portfolio ChatBot
-emoji: 💬
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 5.0.1
-app_file: app.py
-pinned: false
+# 🤖 Zubaida – AI Career Assistant
+
+An **AI-powered chatbot** designed to answer recruiter-style questions and provide details about my **Bio, Projects, Skills, Career Goals, and LinkedIn**.  
+Built using **Python, Gradio, and TF-IDF retrieval**, this project acts as an **interactive portfolio assistant**.
+
 ---
 
-An example chatbot using [Gradio](https://gradio.app), [`huggingface_hub`](https://huggingface.co/docs/huggingface_hub/v0.22.2/en/index), and the [Hugging Face Inference API](https://huggingface.co/docs/api-inference/index).
+## 🚀 Features
+- ✅ Answers recruiter questions like:
+  - *Why should we hire you?*  
+  - *Tell me about yourself*  
+  - *What are your strengths/weaknesses?*
+- ✅ Retrieves information from my personal files:
+  - Bio  
+  - Projects  
+  - Career Goals  
+  - LinkedIn profile  
+- ✅ Handles greetings & casual chat (hi, hello, thanks, etc.)  
+- ✅ Deployed on **Hugging Face Spaces** (no API cost, fully free hosting).  
+
+
+
+## 📂 Project Structure
